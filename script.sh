@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "this is to test scripting file"
-mkdir dir__{1..10}
+mkdir test_{1..10}
